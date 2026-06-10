@@ -1,8 +1,6 @@
 # Spam-Email-Detection-Using-Machine-Learning
 Spam Email Detection using TF-IDF Vectorization and Logistic Regression achieving 95.7% accuracy.
 
-# Spam Email Detection using Machine Learning
-
 ## Project Overview
 This project develops a Spam Email Detection System using Machine Learning techniques. The system classifies emails as Spam or Not Spam based on their content.
 
